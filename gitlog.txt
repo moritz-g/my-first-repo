@@ -1,0 +1,35 @@
+commit b96ea949f652a0a573bfa77666a32c7d6016f4bc
+Author: moritz-g <mo.guenther@web.de>
+Date:   Sat Oct 10 14:57:42 2020 +0200
+
+    added file5.txt even though it's on .gitignore
+
+commit bb382c67af923300003d33ab591b972af35e4519
+Author: moritz-g <mo.guenther@web.de>
+Date:   Sat Oct 10 14:57:13 2020 +0200
+
+    modified .gitignore to exclude file5.txt
+
+commit 10e21411b6ce17b8f8473bee477ec733c75f87ef
+Author: moritz-g <mo.guenther@web.de>
+Date:   Sat Oct 10 14:48:54 2020 +0200
+
+    added gitignore
+
+commit 750fd910076391ae09e1d1eda5c45480bc3b3d06
+Author: moritz-g <mo.guenther@web.de>
+Date:   Sat Oct 10 14:43:30 2020 +0200
+
+    added file3 and file4 after soft reset
+
+commit 1329cd0dcdd28f952d0a5d1491fa19ae7009af38
+Author: moritz-g <mo.guenther@web.de>
+Date:   Sat Oct 10 14:36:15 2020 +0200
+
+    added two new files, modified readme.txt
+
+commit 8c38223c58cc38cd1cfdfea0e66818994968025d
+Author: moritz-g <mo.guenther@web.de>
+Date:   Sat Oct 10 14:32:58 2020 +0200
+
+    added readme.txt
